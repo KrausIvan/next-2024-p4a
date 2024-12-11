@@ -1,6 +1,8 @@
 # Příklady k výuce Next.js v roce 2024/25
 
 1. [Instalace a integrace Prisma](./nxt03-prisma-install/)
+2. [Prisma API](./nxt04-prisma-api/)
+3. [Auth.js](./nxt05-auth/)
 
 ## Seznam příkazů
 ### Základní příkazy
@@ -44,3 +46,9 @@ Migrace
 Seed dat
 
     npx prisma db seed
+
+### Auth.js
+
+Instalace
+
+    npm install next-auth@beta
